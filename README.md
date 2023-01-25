@@ -1,4 +1,4 @@
 Olá, bem vindo ao meu GitHub!🙋‍♂️🤝
 
   Eu sou Renan Lucas, formado no Curso Técnico Integrado em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará | Campus Fortaleza.
-  Tenho conhecimento em linguagem Python🐍, HTML![image](https://user-images.githubusercontent.com/99264208/214449881-bf2e40f7-8b24-42e8-86e7-cbec92088e90.png)
+  Tenho conhecimento em linguagem Python🐍, HTML5️⃣, CSS3️⃣ e JavaScript[![node_js](https://cdn3.emoji.gg/emojis/node_js.png)](https://emoji.gg/emoji/node_js)
