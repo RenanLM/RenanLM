@@ -1,9 +1,13 @@
-Olá, bem vindo ao meu GitHub!🙋‍♂️🤝
+##Olá, bem vindo ao meu GitHub!🙋‍♂️🤝
 
   Eu sou Renan Lucas, formado no Curso Técnico Integrado em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará | Campus Fortaleza.
   Tenho conhecimento em linguagem Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 24px"/>, HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 24px"/>, CSS<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 24px" /> e JavaScript<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 24px"/> básico.
 
-## Contatos:
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div>
 <a href="https://instagram.com/renan.moura85" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
