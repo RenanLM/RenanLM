@@ -29,4 +29,3 @@ Olá, bem vindo ao meu GitHub!🙋‍♂️🤝
   
   
   
-  <script type="module" src="node_modules/@vanillawc/wc-social-link/index.js"></script>
